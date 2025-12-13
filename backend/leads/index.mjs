@@ -107,7 +107,7 @@ export const handler = async (event) => {
               </div>
               <div>
                 <span style="color: #000000; font-weight: 600;">TikTok:</span>
-                <a href="https://www.tiktok.com/@miss.rich77" style="color: #14b8a6; text-decoration: none; margin-left: 8px;">@miss.rich77</a>
+                <a href="https://www.tiktok.com/@veryrich429" style="color: #14b8a6; text-decoration: none; margin-left: 8px;">@veryrich429</a>
               </div>
             </div>
           </div>

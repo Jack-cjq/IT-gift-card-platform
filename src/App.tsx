@@ -279,7 +279,7 @@ const Navigation: React.FC = () => {
             </button>
             
             <button 
-              onClick={() => handleTikTokClick('miss.rich77', 'tiktok-nav')}
+              onClick={() => handleTikTokClick('veryrich429', 'tiktok-nav')}
               data-track="jump"
               data-id="tiktok-nav"
               className="bg-black text-white px-3 py-2 rounded-lg hover:bg-gray-800 transition-colors flex items-center space-x-2 text-sm"
@@ -945,7 +945,7 @@ const HomePage: React.FC = () => {
                     </svg>
                   </button>
                   <button 
-                    onClick={() => handleTikTokClick('miss.rich77')}
+                    onClick={() => handleTikTokClick('veryrich429')}
                     className="w-8 h-8 bg-black rounded-full flex items-center justify-center hover:bg-gray-800 transition-colors cursor-pointer"
                   >
                     <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24">
@@ -984,7 +984,7 @@ const HomePage: React.FC = () => {
                     </svg>
                   </button>
                   <button 
-                    onClick={() => handleTikTokClick('miss.rich77')}
+                    onClick={() => handleTikTokClick('veryrich429')}
                     className="w-8 h-8 bg-black rounded-full flex items-center justify-center hover:bg-gray-800 transition-colors cursor-pointer"
                   >
                     <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24">
@@ -1023,7 +1023,7 @@ const HomePage: React.FC = () => {
                     </svg>
                   </button>
                   <button 
-                    onClick={() => handleTikTokClick('miss.rich77')}
+                    onClick={() => handleTikTokClick('veryrich429')}
                     className="w-8 h-8 bg-black rounded-full flex items-center justify-center hover:bg-gray-800 transition-colors cursor-pointer"
                   >
                     <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24">
@@ -1062,7 +1062,7 @@ const HomePage: React.FC = () => {
                     </svg>
                   </button>
                   <button 
-                    onClick={() => handleTikTokClick('miss.rich77')}
+                    onClick={() => handleTikTokClick('veryrich429')}
                     className="w-8 h-8 bg-black rounded-full flex items-center justify-center hover:bg-gray-800 transition-colors cursor-pointer"
                   >
                     <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24">
